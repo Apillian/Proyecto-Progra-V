@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.tablas{
+  margin-top: 400px;
+  margin-left: 825px;
+  size: 5000px;
+}
+
+.Selectin{
+  color: green;
+}
+
+.buton1{
+  font-size: 30px;
+}
