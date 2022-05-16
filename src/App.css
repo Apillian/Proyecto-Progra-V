@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color:rgb(119, 141, 240);
 }
 
 .App-logo {
@@ -38,8 +39,9 @@
 }
 
 .tablas{
-  margin-top: 400px;
-  margin-left: 825px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
   size: 5000px;
 }
 
@@ -49,4 +51,5 @@
 
 .buton1{
   font-size: 30px;
+  margin-top: 50px;
 }
